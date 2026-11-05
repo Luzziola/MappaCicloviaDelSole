@@ -86,8 +86,6 @@
 # Sostituisci le coordinate di esempio con quelle del nuovo punto.
 
 
-
-
 - name: "Villa San Donino"
   tipo: "Ristorante"
   fa: "fa-utensils"
@@ -195,7 +193,7 @@
   lat: 44.7113615
   lng: 11.3065741
   color: "#1d6fa4"
-
+  
 - name: "Fresko"
   tipo: "Gelateria"
   fa: "fa-ice-cream"
