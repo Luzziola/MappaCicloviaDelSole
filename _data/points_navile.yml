@@ -193,6 +193,15 @@
   lat: 44.7113615
   lng: 11.3065741
   color: "#1d6fa4"
+
+- name: "Fresko"
+  tipo: "Gelateria"
+  fa: "fa-mug-hot"
+  addr: "Via Marco Rizzoli, 2, Pieve di Cento"
+  orari: "lun-dom 12-22"
+  lat: 44.645327
+  lng: 11.374642
+  color: "#1d6fa4"
   
 - name: "Fresko"
   tipo: "Gelateria"
