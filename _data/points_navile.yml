@@ -201,7 +201,7 @@
   fa: "fa-ice-cream"
   addr: "Piazza Trento Trieste, San Giorgio di Piano"
   orari: "lun-dom 12-22"
-  lat: 44.645327 
+  lat: 44.645327
   lng: 11.374642
   color: "#e85d04"
 
@@ -219,7 +219,7 @@
   fa: "fa-bed"
   addr: "Via Marconi, 14, San Giorgio di Piano"
   orari: ""
-  lat: 44.645797 
+  lat: 44.645797
   lng: 11.388725
   color: "#e91e8c"
 
