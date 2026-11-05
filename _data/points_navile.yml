@@ -195,3 +195,48 @@
   lat: 44.7113615
   lng: 11.3065741
   color: "#1d6fa4"
+
+- name: "Fresko"
+  tipo: "Gelateria"
+  fa: "fa-ice-cream"
+  addr: "Piazza Trento Trieste, San Giorgio di Piano"
+  orari: "lun-dom 12-22"
+  lat: 44.645327 
+  lng: 11.374642
+  color: "#e85d04"
+
+- name: "Garani Ice"
+  tipo: "Bar / Gelateria"
+  fa: "fa-mug-hot"
+  addr: "Piazza Mercato, 16, Castello d'Argile"
+  orari: "mar-sab 12-22.30, dom 16-22.30"
+  lat: 44.7005
+  lng: 11.2885
+  color: "#1d6fa4"
+
+- name: "Chiaro di Luna"
+  tipo: "B&B"
+  fa: "fa-bed"
+  addr: "Via Marconi, 14, San Giorgio di Piano"
+  orari: ""
+  lat: 44.645797 
+  lng: 11.388725
+  color: "#e91e8c"
+
+- name: "R&B dalla Licia"
+  tipo: "B&B"
+  fa: "fa-bed"
+  addr: "Via Boves, 2, San Giorgio di Piano"
+  orari: ""
+  lat: 44.649756
+  lng: 11.370504
+  color: "#e91e8c"
+
+- name: "Villa Il Selvatico"
+  tipo: "B&B / Hotel"
+  fa: "fa-bed"
+  addr: "Via Mascherino, 2, San Giorgio di Piano"
+  orari: ""
+  lat: 44.664139
+  lng: 11.370405
+  color: "#e91e8c"
