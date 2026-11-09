@@ -211,8 +211,8 @@
   fa: "fa-mug-hot"
   addr: "Piazza Mercato, 16, Castello d'Argile"
   orari: "mar-sab 12-22.30, dom 16-22.30"
-  lat: 44.7005
-  lng: 11.2885
+  lat: 44.680246
+  lng: 11.295395
   color: "#1d6fa4"
 
 - name: "Chiaro di Luna"
