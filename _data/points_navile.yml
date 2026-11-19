@@ -241,8 +241,8 @@
   lat: 44.664139
   lng: 11.370405
   color: "#e91e8c"
-
-  - name: "Coop Reno Argelato"
+  
+- name: "Coop Reno Argelato"
   tipo: "Alimentari di prossimità"
   fa: "fa-basket-shopping"
   addr: "Via Centese, 17, Argelato"
@@ -300,7 +300,7 @@
   tipo: "Ristorante"
   fa: "fa-utensils"
   addr: "Via Valle, 31, San Vincenzo (Galliera)"
-  orari: ""
+  orari: "Dom-Ven 9-14.30 / Sab Chiuso"
   lat: 44.7990
   lng: 11.4770
   color: "#e85d04"
