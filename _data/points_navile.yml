@@ -241,7 +241,6 @@
   lat: 44.664139
   lng: 11.370405
   color: "#e91e8c"
-
   
 - name: "Coop Reno Argelato"
   tipo: "Alimentari di prossimità"
@@ -296,7 +295,6 @@
   lat: 44.7355
   lng: 11.4280
   color: "#6c757d"
-
   
 - name: "Trattoria Wilma"
   tipo: "Ristorante"
