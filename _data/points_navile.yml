@@ -241,3 +241,66 @@
   lat: 44.664139
   lng: 11.370405
   color: "#e91e8c"
+
+  - name: "Coop Reno Argelato"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Via Centese, 17, Argelato"
+  orari: "Lun-Ven 8-13, 15-20 / Sab 8-20 / Dom Chiuso"
+  lat: 44.6385
+  lng: 11.3300
+  color: "#6c757d"
+
+- name: "Coop Reno Castello d'Argile"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Via Nuova, 17, Castello d'Argile"
+  orari: "Lun-Sab 8:30-20 / Dom 9-13"
+  lat: 44.6930
+  lng: 11.2870
+  color: "#6c757d"
+
+- name: "Coop Reno Pieve di Cento"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Via Circonvallazione Ponente, 14, Pieve di Cento"
+  orari: "Lun-Sab 8:30-20 / Dom 9-13"
+  lat: 44.7135
+  lng: 11.3015
+  color: "#6c757d"
+
+- name: "Coop Reno San Giorgio di Piano"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Via Pirotti, 10, San Giorgio di Piano"
+  orari: "Lun-Sab 8-20 / Dom 8:30-13:15"
+  lat: 44.6474
+  lng: 11.37206
+  color: "#6c757d"
+
+- name: "Coop Reno San Pietro in Casale"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Piazza S. Testoni, 19, San Pietro in Casale"
+  orari: "Lun-Sab 8-20 / Dom 8:30-13"
+  lat: 44.6895
+  lng: 11.4108
+  color: "#6c757d"
+
+- name: "Coop Reno San Venanzio di Galliera"
+  tipo: "Alimentari di prossimità"
+  fa: "fa-basket-shopping"
+  addr: "Via della Pace, 41/C, San Venanzio di Galliera"
+  orari: "Lun-Ven 8-13, 15:45-19:45 / Sab 8-19:45 / Dom Chiuso"
+  lat: 44.7355
+  lng: 11.4280
+  color: "#6c757d"
+  
+- name: "Trattoria Wilma"
+  tipo: "Ristorante"
+  fa: "fa-utensils"
+  addr: "Via Valle, 31, San Vincenzo (Galliera)"
+  orari: ""
+  lat: 44.7990
+  lng: 11.4770
+  color: "#e85d04"
